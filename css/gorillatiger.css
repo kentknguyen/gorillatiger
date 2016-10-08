@@ -1,0 +1,43 @@
+body	{
+	font-family: "Avant Garde", Arial, sans-serif;
+	padding-top: 70px;
+	background: #e6e6e6
+}
+
+html	{
+	height: 100%;
+}
+
+img 	{
+	display: block;
+	margin: auto;
+	width: 30%;
+}
+
+.jumbotron 	{
+	background: #c2c2a3;
+	text-align: center;
+	font-size: 5em;
+}
+
+.navbar 	{
+	height: 20px;
+}
+
+.nav-pills 	{
+	background-color: #8c8c8c;
+
+}
+
+.nav-pills li a 	{
+	color: #ffffff;
+}
+
+.nav-pills li a:hover 	{
+	background-color:  #9999ff;
+}
+
+.dropdown-menu 	{
+	background: #9999ff;
+}
+
